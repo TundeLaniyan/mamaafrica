@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mamaafrica/static/css/main.6b4dd58d.chunk.css",
+    "main.js": "/mamaafrica/static/js/main.0baece83.chunk.js",
+    "main.js.map": "/mamaafrica/static/js/main.0baece83.chunk.js.map",
+    "runtime-main.js": "/mamaafrica/static/js/runtime-main.90d91f06.js",
+    "runtime-main.js.map": "/mamaafrica/static/js/runtime-main.90d91f06.js.map",
+    "static/js/2.692b9363.chunk.js": "/mamaafrica/static/js/2.692b9363.chunk.js",
+    "static/js/2.692b9363.chunk.js.map": "/mamaafrica/static/js/2.692b9363.chunk.js.map",
+    "static/js/3.dc0c9552.chunk.js": "/mamaafrica/static/js/3.dc0c9552.chunk.js",
+    "static/js/3.dc0c9552.chunk.js.map": "/mamaafrica/static/js/3.dc0c9552.chunk.js.map",
+    "index.html": "/mamaafrica/index.html",
+    "static/css/main.6b4dd58d.chunk.css.map": "/mamaafrica/static/css/main.6b4dd58d.chunk.css.map",
+    "static/js/2.692b9363.chunk.js.LICENSE.txt": "/mamaafrica/static/js/2.692b9363.chunk.js.LICENSE.txt",
+    "static/media/home.scss": "/mamaafrica/static/media/quality-svgrepo-com.6338d0a1.svg",
+    "static/media/products.scss": "/mamaafrica/static/media/basket-with-vegetables.49e5ee39.jpg",
+    "static/media/header.scss": "/mamaafrica/static/media/user.3e95d96e.svg",
+    "static/media/footer.scss": "/mamaafrica/static/media/payment.c0ca5668.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d91f06.js",
+    "static/js/2.692b9363.chunk.js",
+    "static/css/main.6b4dd58d.chunk.css",
+    "static/js/main.0baece83.chunk.js"
+  ]
+}
